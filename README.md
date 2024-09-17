@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ErykBahlah
 - 👀 I’m interested in hiking, dogs, and cleaning solutions for dogs. 
-- 🌱 I’m currently learning C++, Java, Dynamic Programming.
+- 🌱 I’m currently learning Python, Javascript, Web Design, C# and .NET.
 - 💞️ I’m looking to collaborate on ... (something soon)
 - 📫 How to reach me: 
-email: ericbrlr@gmail.com / ebbarlar@uark.edu 
+email: ericbrlr@gmail.com / ericbarlar@gmail.com
 Social: Instagram: @ErykBahla
 
 <!---
